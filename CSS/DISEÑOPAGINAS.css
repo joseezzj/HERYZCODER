@@ -233,6 +233,11 @@ margin-top: 1%;
   display: flex;
   justify-content: center;
   align-items: center;
+  width: 600px;
+  height: 400px;
+  border: 0;
+  padding-left: 50%;
+  padding-top: 3%;
 }
 
 @media (min-width: 300px) and (max-width:700px) {
@@ -267,6 +272,8 @@ margin-top: 1%;
   align-items: center;
   padding-top: 20%;
     }
+  
+  
 
 
 
